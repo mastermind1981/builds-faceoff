@@ -1,2 +1,2 @@
 # builds-faceoff
-Demo code for The Ultimate Build Tools Face-off JavaOne talk [CON2270] 
+Demo code for the Maven v Gradle: Dawn of Project Automation talk at Devoxx US
