@@ -44,7 +44,7 @@
                   <version>1.8</version>
                 </requireJavaVersion>
                 <requireOS>
-                  <family>windows</family>
+                  <family>unix</family>
                 </requireOS>
               </rules>
             </configuration>
