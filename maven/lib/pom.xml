@@ -25,6 +25,11 @@
             <artifactId>b</artifactId>
             <version>1.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.javaone.buildfaceoff</groupId>
+            <artifactId>a</artifactId>
+            <version>1.0</version>
+        </dependency>
 
         <dependency>
             <groupId>org.projectlombok</groupId>
